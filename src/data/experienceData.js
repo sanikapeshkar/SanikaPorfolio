@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Immverse',
+        company: 'Immverse Innovations Pvt. Ltd',
         jobtitle: 'Product Research and developement ',
         startYear: 'January 2023',
         endYear: 'Present',
@@ -9,7 +9,7 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'Sharing Mitra',
+        company: 'Sharing Mitra Foundation',
         jobtitle: 'NGO internship in content creation ',
         startYear: 'March 2023',
         endYear: 'April 2023',

@@ -8,6 +8,7 @@
 }
 
 .achievement-body {
+
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -18,18 +19,18 @@
 
 .achievement-body h1 {
     font-family: var(--primaryFont);
-    font-size: 3.5rem;
+    font-size: 3.0rem;
     margin-bottom: 1.5rem;
 }
 
 .achievement-body h4 {
-    font-size: 1.75rem;
-    font-family: 'Caveat', cursive;
+    font-size: 1.3rem;
+    /* font-family: '; */
     font-weight: 400;
 }
 
 .achievement-cards {
-    padding: 2rem;
+    padding: 3rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -55,6 +56,7 @@
 }
 
 .achievecard-content {
+
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -77,6 +79,7 @@
 
 .achievecard-details2 h5 {
    width: 50%;
+   padding-bottom: 20px;
 }
 
 .achievecard-field {
@@ -185,6 +188,7 @@
 
     .achievecard-details1 h2 {
         font-size: 1.15rem;
+        font-weight: 400;
     }
 
     .achievecard-details1 p {
@@ -192,6 +196,7 @@
     }
 
     .achievecard-details2 {
+        padding:2rem;
         width: 85%;
         position: absolute;
         bottom: 7px;

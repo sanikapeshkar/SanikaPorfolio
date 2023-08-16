@@ -1,4 +1,4 @@
- export const skillsData = [
+export const skillsData = [
     'HTML',
     'C++',  'C',
     'Figma',
@@ -6,6 +6,9 @@
     'CSS',
     'React',
     'Microsoft Office',
+    'PostGresSQL',
+    'Firebase',
+    'Power BI',
     'Canva',
     'Node JS','My SQL',
 ]

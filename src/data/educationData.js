@@ -16,7 +16,7 @@ export const educationData = [
         id: 3,
         institution: 'G.H. Raisoni College of Engineering ',
         course: 'Bachelor of Technology',
-        startYear: 'Cgpa - 9.12  (sem 5)',
+        startYear: 'Cgpa - 9.06  (sem 6)',
      
     },
 ]

@@ -23,16 +23,26 @@ export const projectsData = [
         demo: 'https://cleanlane.vercel.app/',
         image: two
     },
+
     {
         id: 3,
+        projectName: 'PowerBI HR analytics Dashboard',
+        projectDesc: 'created a HR analytics Dashboard to determine the analytics for attiration rate',
+        tags: ['PowerBI'],
+        code: '',
+        demo: '',
+        image: three
+    },
+    {
+        id: 4,
         projectName: 'Express based API integration',
         projectDesc: 'News based API integration project',
         tags: ['Express','React','MaterialUI'],
         code: '',
         demo: '',
         image: three
-    }
-  
+    },
+ 
 
 ]
 
